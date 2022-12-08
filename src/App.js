@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Persib_Bandung_crest_with_stars.svg/1200px-Persib_Bandung_crest_with_stars.svg.png" className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        <code>Persib Bandung, di Kota Bandung telah berdiri klub sepak bola Bandoeng Inlandsche Voetbal Bond (BIVB) pada sekitar tahun 1923. BIVB ini merupakan salah satu organisasi perjuangan kaum nasionalis pada masa itu.</code>
         </p>
         <a
           className="App-link"

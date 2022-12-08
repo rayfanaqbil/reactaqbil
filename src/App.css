@@ -14,7 +14,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url("https://akcdn.detik.net.id/visual/2022/04/18/gemerlap-cahaya-jis-malam-hari-3_169.jpeg?w=650");
+  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
